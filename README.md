@@ -45,10 +45,6 @@ A bike-sharing system is a service in which bikes are made available for shared 
 - This project is a part of UpGrad Course. I would like to thank the team at UpGrad and IIITB for providing us the chance to work on this project.
 
 
-## Contact
-[Rudranil Gupta](https://github.com/rudranils/)
-
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
